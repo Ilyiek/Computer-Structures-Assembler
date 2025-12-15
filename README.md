@@ -24,7 +24,7 @@ Testing Framework: pytest (optional)
 Installation 
 1. Clone the repository: 
 bash 
-git clone https://github.com/Ilyiek/sicxe-assembler.git 
+git clone https://github.com/Ilyiek/Computer--Structures-Assembler.git 
 cd sicxe-assembler 
 2. Verify Python version: 
 bash 
